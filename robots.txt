@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyabiugi.github.io/OIx/sitemap_index.txt
+Sitemap: https://oyabiugi.github.io/aRj/sitemap_index.txt
+Sitemap: https://oyabiugi.github.io/ifP/sitemap_index.txt
+Sitemap: https://oyabiugi.github.io/uvU/sitemap_index.txt
